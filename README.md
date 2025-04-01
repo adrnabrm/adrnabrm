@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! I'm Adrian Abraham 😋
+
+👨🏽‍💻 CS w/ Applied Math minor Undergrad @ CSULB
+💼 Actively looking for AI/ML or SWE internships
+🤖 Looking to expand my knowledge in AI/ML theory and how to apply models in real-world scenarios
+
 
 <!--
 **adrnabrm/adrnabrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
