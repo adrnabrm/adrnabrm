@@ -1,8 +1,8 @@
 ## Hello! I'm Adrian Abraham 😋
 
-👨🏽‍💻 CS w/ Applied Math minor Undergrad @ CSULB
-💼 Actively looking for AI/ML or SWE internships
-🤖 Looking to expand my knowledge in AI/ML theory and how to apply models in real-world scenarios
+👨🏽‍💻 CS w/ Applied Math minor Undergrad @ CSULB\
+💼 Actively looking for AI/ML or SWE internships\
+🤖 Looking to expand my knowledge in AI/ML theory and how to apply models in real-world scenarios\
 
 
 <!--
